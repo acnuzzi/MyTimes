@@ -14,7 +14,7 @@ header {
 
 .mytimes {
   color: MediumAquamarine;
-  align-items: center;
+  align-self: center;
 }
 
 .header nav {
