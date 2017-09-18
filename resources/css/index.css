@@ -1,9 +1,12 @@
-.header {
+header {
   display: flex;
   width: auto;
   border-bottom: solid;
   flex-direction: row;
   justify-content: space-between;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
 }
 
 header {
@@ -17,7 +20,7 @@ header {
   margin-bottom: 15px;
 }
 
-.header nav {
+header nav {
   justify-content: flex-end;
 }
 
@@ -32,7 +35,7 @@ nav ul {
    justify-content: flex-end;
   }
 
-.header nav a {
+header nav a {
   Color: orange;
   }
   
