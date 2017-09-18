@@ -25,11 +25,13 @@ header a {
 
 nav li {
 padding: 5px 10px;
+   justify-content: flex-end;
 }
 
 nav ul {
   list-style-type: none;
   display: inline-flex;
+   justify-content: flex-end;
   }
 
 .header nav a {
