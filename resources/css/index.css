@@ -4,6 +4,7 @@ header {
   font-size: 14px;
   font-weight: bold;
   padding: 15px 15px;
+  border-style: solid;
 }
 
 .mytimes {
