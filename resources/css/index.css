@@ -21,12 +21,10 @@ header a {
 }
 
 .header nav {
-  align-items: flex-end;
 }
 
 nav li {
 padding: 5px 10px;
-  align-items: flex-end;
 }
 
 nav ul {
