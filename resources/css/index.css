@@ -1,15 +1,16 @@
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  display: flex;
   overflow: hidden;
   }
   
-li {
-  display: inline-block;
+nav li {
+  flex-direction: row;
 }
 
-li a {
+nav a {
   text-align: center;
   Color: black;
   padding: 16px 16px 0px 16px;
