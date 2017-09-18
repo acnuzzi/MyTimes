@@ -4,6 +4,7 @@
   border-bottom: solid;
   flex-direction: row;
   justify-content: space-around;
+  align-items: center;
 }
 
 header {
