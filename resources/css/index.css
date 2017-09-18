@@ -14,13 +14,13 @@ header {
 nav ul {
   list-style-type: none;
   overflow: hidden;
-  padding-top: 5px;    
+  padding-top: 5px;
+  align-items: flex-end;
   }
   
 nav li {
   flex-direction: row;
   display: inline-block;
-  align-items: flex-end;
 }
 
 nav a {
