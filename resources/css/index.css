@@ -21,7 +21,7 @@ header a {
 }
 
 nav {
-  display: flex;
+  display: inline-block;
   justify-content: flex-end;
 }
 
