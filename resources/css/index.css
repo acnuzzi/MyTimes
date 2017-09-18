@@ -10,12 +10,15 @@ header {
   color: MediumAquamarine;
 }
 
+nav {
+  align-content: flex-end;
+}
+
 nav ul {
   list-style-type: none;
   overflow: hidden;
   padding-top: 5px;
   display: inline-flex;
-  align-content: flex-end;
   }
 
 nav a {
