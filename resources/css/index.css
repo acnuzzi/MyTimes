@@ -1,3 +1,8 @@
+header {
+  display: flex;
+  flex-direcion: row;
+}
+
 nav ul {
   list-style-type: none;
   display: flex;
@@ -13,8 +18,6 @@ nav li {
 nav a {
   text-align: center;
   Color: black;
-  padding: 15px 30px 15px 30px;
-  justify-content: space-around;
   }
   
   
