@@ -40,10 +40,14 @@ header nav a {
   }
   */
 
+nav {
+  color: black;
+}
+
 nav span {
   flex-flow: row wrap;
   margin-right: 30px;
-  Color: black;
+  color: black;
 }
   
   
