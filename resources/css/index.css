@@ -20,6 +20,8 @@ nav ul {
 
 nav a {
   Color: black;
+  display: inline-block;
+  justify-content: flex-end;
   }
   
   
