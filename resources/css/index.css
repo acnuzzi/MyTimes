@@ -19,11 +19,11 @@ nav ul {
   list-style-type: none;
   overflow: hidden;
   display: inline-flex;
+  justify-content: space-between;
   }
 
 nav a {
   Color: black;
-  justify-content: space-between;
   }
   
   
