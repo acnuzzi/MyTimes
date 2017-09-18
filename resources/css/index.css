@@ -33,7 +33,7 @@ nav ul {
   display: inline-flex;
   }
 
-nav a {
+nav.header a {
   Color: orange;
   }
   
