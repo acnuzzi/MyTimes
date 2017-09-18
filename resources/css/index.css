@@ -22,7 +22,7 @@ nav ul {
 
 nav a {
   display: block;
-  text-align: right;
+  align-items: right;
   Color: black;
   }
   
