@@ -21,7 +21,7 @@ header a {
 }
 
 .header nav {
-  justify-content: flex-end;
+  align-items: flex-end;
 }
 
 nav li {
@@ -30,7 +30,7 @@ padding: 5px 10px;
 
 nav ul {
   list-style-type: none;
-  display: inline-flex;
+  display: inline;
   }
 
 .header nav a {
