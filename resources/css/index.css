@@ -1,6 +1,7 @@
 .header {
   display: inline-block;
   width: 100%;
+  border-bottom: solid;
 }
 
 header {
@@ -8,7 +9,7 @@ header {
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
-  border-bottom: solid;
+
 }
 
 header a {
