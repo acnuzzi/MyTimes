@@ -11,14 +11,11 @@ header {
 
 nav {
   display: flex;
-  align-content: flex-end;
-  justify-cotent: flex-end;
 }
 
 nav ul {
   list-style-type: none;
   overflow: hidden;
-  padding-top: 5px;
   display: inline-flex;
   }
 
