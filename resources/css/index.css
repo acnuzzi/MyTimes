@@ -15,7 +15,12 @@ header {
   align-self: flex-start;
 }
 
-
+div ul {
+  list-style-type: none;
+  display: inline-flex;
+}
+  
+  
 nav li {
 padding: 5px 10px;
 }
