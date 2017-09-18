@@ -24,7 +24,7 @@ div li {
   padding-right: 10px;
 }
   
-nav li {
+/* nav li {
 padding-right: 15px;
 }
 
@@ -38,5 +38,18 @@ nav ul {
 header nav a {
   Color: black;
   }
+  */
+
+nav span {
+  flex-flow: row wrap;
+  margin-right: 30px;
+}
   
+  
+  
+  
+  
+  
+  
+
   
