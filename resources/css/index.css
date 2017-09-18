@@ -4,7 +4,7 @@
   border-bottom: solid;
   flex-direction: row;
   justify-content: space-around;
-  align-items: flex-start;
+  align-items: baseline;
 }
 
 header {
