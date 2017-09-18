@@ -8,11 +8,18 @@ header {
   justify-content: flex-end;
 }
 
+span {
+   display: flex;
+   justify-content: flex-start;
+}
+
+
 .mytimes {
   color: MediumAquamarine;
 }
 
 nav {
+  display: flex;
   justify-content: flex-end;
 }
 
