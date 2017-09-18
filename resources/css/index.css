@@ -9,11 +9,12 @@ header {
   font-family: Verdana;
   font-size: 14px;
   justify-content: flex-start;
-  align-items: center;
+  
 }
 
 header a {
   padding-top: 10px;
+  align-items: center;
 }
 
 .mytimes {
