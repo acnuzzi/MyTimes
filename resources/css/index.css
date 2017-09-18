@@ -12,6 +12,8 @@ header {
 
 nav {
   display: flex;
+  align-content: flex-end;
+  justify-cotent: flex-end;
 }
 
 nav ul {
@@ -21,10 +23,6 @@ nav ul {
   display: inline-flex;
   }
 
-nav li {
-  align-content: flex-end;
-  justify-cotent: flex-end;
-}
 nav a {
   Color: black;
   }
