@@ -7,12 +7,13 @@ nav ul {
 nav li {
   flex-direction: row;
   display: inline-block;
-  padding: 15px 30px 15px 30px;
+
 }
 
 nav a {
   text-align: center;
   Color: black;
+  padding: 15px 30px 15px 30px;
   }
   
   
