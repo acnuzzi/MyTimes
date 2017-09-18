@@ -12,7 +12,11 @@ header {
 
 nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
+}
+
+nav li {
+justify-content: space-between;
 }
 
 nav ul {
