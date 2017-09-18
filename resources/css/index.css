@@ -11,9 +11,8 @@ header {
 }
 
 nav {
+  display: flex;
   justify-content: flex-end;
-  align-items: flex-end;
-  text-align: right;
 }
 
 nav ul {
@@ -23,8 +22,6 @@ nav ul {
   }
 
 nav a {
-  display: block;
-  align-items: right;
   Color: black;
   }
   
