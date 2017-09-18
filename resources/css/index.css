@@ -14,7 +14,7 @@ header {
 nav ul {
   list-style-type: none;
   overflow: hidden;
-    
+  padding-top: 5px;    
   }
   
 nav li {
