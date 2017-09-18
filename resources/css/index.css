@@ -3,7 +3,7 @@ header {
   width: auto;
   border-bottom: solid;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
