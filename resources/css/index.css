@@ -12,12 +12,9 @@ header {
   
 }
 
-header a {
-  align-items: center;
-}
-
 .mytimes {
   color: MediumAquamarine;
+  align-items: center;
 }
 
 .header nav {
