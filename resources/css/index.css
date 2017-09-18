@@ -18,8 +18,8 @@ nav ul {
 
 nav a {
   Color: black;
-  display: inline-block;
-  justify-content: flex-end;
+  display: inline-flex;
+  align-content: flex-end;
   }
   
   
