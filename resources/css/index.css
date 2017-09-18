@@ -14,11 +14,12 @@ nav ul {
   list-style-type: none;
   overflow: hidden;
   padding-top: 5px;
+  display: inline-flex;
   }
 
 nav a {
   Color: black;
-  display: inline-flex;
+  
   align-content: flex-end;
   }
   
