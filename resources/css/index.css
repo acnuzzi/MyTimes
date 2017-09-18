@@ -12,14 +12,12 @@ header {
 
 nav {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-between;
 }
 
 nav ul {
   list-style-type: none;
-  overflow: hidden;
   display: inline-flex;
-  justify-content: space-between;
   }
 
 nav a {
