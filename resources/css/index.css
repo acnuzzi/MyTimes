@@ -8,8 +8,7 @@
 header {
   font-family: Verdana;
   font-size: 14px;
-  font-weight: bold;
-  flex: 1 6 20%;
+  justify-content: flex-start;
 }
 
 header a {
@@ -21,8 +20,6 @@ header a {
 }
 
 .header nav {
-  flex: 3 1 80%;
-  order:2;
   justify-content; flex-end;
 }
 
