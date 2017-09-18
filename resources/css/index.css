@@ -17,11 +17,6 @@ span {
   color: MediumAquamarine;
 }
 
-nav {
-  display: flex;
-  justify-content: flex-end;
-}
-
 nav ul {
   list-style-type: none;
   overflow: hidden;
