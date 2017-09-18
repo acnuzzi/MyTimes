@@ -6,11 +6,6 @@ header {
   padding: 15px 15px;
 }
 
-span a {
-  padding-bottom: 15px;
-}
-
-
 .mytimes {
   color: MediumAquamarine;
 }
@@ -24,6 +19,7 @@ nav ul {
   
 nav li {
   display: inline-flex;
+  justify-content: flex-end;
 }
 
 nav a {
