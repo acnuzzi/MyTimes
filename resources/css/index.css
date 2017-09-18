@@ -6,13 +6,13 @@ ul {
   }
   
 li {
-  display: inline;
+  display: inline-block;
 }
 
 li a {
-  width: 300px;
   text-align: center;
   Color: black;
+  padding: 14px 16px;
   }
   
   
