@@ -9,34 +9,22 @@ header {
   font-weight: bold;
 }
 
-header {
-  font-family: Verdana;
-  font-size: 14px;
-  font-weight: bold;
-}
-
 .mytimes {
   color: MediumAquamarine;
-  margin-bottom: 15px;
 }
 
-header nav {
-  justify-content: flex-end;
-}
 
 nav li {
 padding: 5px 10px;
-   justify-content: flex-end;
 }
 
 nav ul {
   list-style-type: none;
   display: inline-flex;
-   justify-content: flex-end;
   }
 
 header nav a {
-  Color: orange;
+  Color: black;
   }
   
   
