@@ -9,6 +9,7 @@ header {
 
 .mytimes {
   color: MediumAquamarine;
+  style: float-left;
 }
 
 nav ul {
