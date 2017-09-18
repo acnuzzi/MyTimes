@@ -1,9 +1,19 @@
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
   }
   
+li {
+  display: inline;
+}
+
 li a {
   display: block;
+  width: 60px;
+  text-align: center;
+  Color: black;
   }
   
   
