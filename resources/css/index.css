@@ -40,7 +40,7 @@ header nav a {
   }
   */
 
-nav {
+nav a {
   color: black;
 }
 
@@ -49,7 +49,6 @@ nav span {
   margin-right: 30px;
   color: black;
 }
-  
   
   
   
