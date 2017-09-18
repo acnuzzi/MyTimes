@@ -6,6 +6,10 @@ header {
   font-weight: bold;
 }
 
+nav MyTime {
+  color: MediumAquamarine;
+}
+
 nav ul {
   list-style-type: none;
   overflow: hidden;
