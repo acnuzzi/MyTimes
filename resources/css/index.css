@@ -12,7 +12,7 @@ header {
 
 .mytimes {
   color: MediumAquamarine;
-  align-self: center;
+  align-self: flex-start;
 }
 
 
