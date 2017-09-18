@@ -21,6 +21,8 @@ nav ul {
   }
 
 nav a {
+  display: block;
+  text-align: right;
   Color: black;
   }
   
