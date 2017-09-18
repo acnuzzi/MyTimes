@@ -30,7 +30,7 @@ padding-right: 15px;
 
 nav ul {
   list-style-type: none;
-  display: inline-flex;
+  display: inline-block;
   margin-right: 30px;
   flex-flow: row wrap;
   }
