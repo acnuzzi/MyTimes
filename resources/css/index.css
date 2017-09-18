@@ -13,6 +13,11 @@ header {
   align-items: flex-start;
 }
 
+nav {
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
 nav ul {
   list-style-type: none;
   overflow: hidden;
@@ -22,8 +27,6 @@ nav ul {
 nav li {
   flex-direction: row;
   display: inline-block;
-  justify-content: flex-end;
-  align-items: flex-end;
 }
 
 nav a {
