@@ -21,9 +21,12 @@ nav ul {
   display: inline-flex;
   }
 
+nav li {
+  align-content: flex-end;
+  justify-cotent: flex-end;
+}
 nav a {
   Color: black;
-  align-content: flex-end;
   }
   
   
