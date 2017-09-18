@@ -6,12 +6,15 @@ header {
   border-bottom: solid;
 }
 
+header a {
+  padding-top: 10px;
+}
+
 .mytimes {
   color: MediumAquamarine;
 }
 
 nav {
-  display: flex;
   justify-content: flex-end;
 }
 
