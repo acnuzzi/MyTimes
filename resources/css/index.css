@@ -55,7 +55,12 @@ nav.rightheader span {
   color: black;
 }
   
-  
+.maincontainer {
+  display: flex;
+  width: auto;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
   
   
   
