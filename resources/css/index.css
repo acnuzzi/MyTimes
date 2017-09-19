@@ -8,6 +8,7 @@ header {
   font-size: 14px;
   font-weight: bold;
   align-items: center;
+  postion: fixed;
 }
 
 .mytimes {
