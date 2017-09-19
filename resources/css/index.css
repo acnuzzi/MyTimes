@@ -63,15 +63,15 @@ nav.rightheader span {
 }
   
 .largecolumn {
-  flex-grow: 2;
+  width: 630px;
 }
   
 .mediumcolumn {
-  flex-grow: 1;
+  width: 300px;
 }
 
 .smallcolumn {
-  flex-grow: 1;
+  width: 240px;
 }
 
   
