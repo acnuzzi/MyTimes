@@ -18,6 +18,7 @@ div.leftheader ul {
   list-style-type: none;
   display: inline-flex;
   align-items: center;
+  border: solid;
 }
 
 div.leftheader li {
