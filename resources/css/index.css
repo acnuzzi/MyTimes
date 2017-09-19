@@ -59,7 +59,7 @@ nav.rightheader span {
   display: flex;
   width: auto;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
 }
   
 .largecolumn {
