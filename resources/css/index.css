@@ -34,13 +34,16 @@ nav ul {
   display: inline-flex;
   margin-right: 30px;
   flex-flow: row wrap;
-  border: solid;
   }
 
 header nav a {
   Color: black;
   }
   */
+
+nav.rightheader{
+  border: solid;
+}
 
 nav.rightheader a {
   color: black;
