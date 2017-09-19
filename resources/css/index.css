@@ -62,8 +62,16 @@ nav.rightheader span {
   justify-content: space-evenly;
 }
   
+.largecolumn {
+  flex-grow: 2;
+}
   
-  
-  
+.mediumcolumn {
+  flex-grow: 1;
+}
+
+.smallcolumn {
+  flex-grow: 1;
+}
 
   
