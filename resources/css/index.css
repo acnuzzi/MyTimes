@@ -9,7 +9,8 @@ header {
   font-weight: bold;
   align-items: center;
   background-color: white;
-  z-index: 1;
+  position: fixed;
+  z-index: 999;
 }
 
 .mytimes {
