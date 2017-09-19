@@ -9,6 +9,7 @@ header {
   font-weight: bold;
   align-items: center;
   position: fixed;
+  background-color: white;
 }
 
 .mytimes {
