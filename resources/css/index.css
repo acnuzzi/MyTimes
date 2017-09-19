@@ -14,13 +14,13 @@ header {
   color: MediumAquamarine;
 }
 
-div ul {
+.leftheader div ul {
   list-style-type: none;
   display: inline-flex;
   align-items: center;
 }
 
-div li {
+.leftheader div li {
   padding-right: 10px;
 }
   
@@ -40,11 +40,11 @@ header nav a {
   }
   */
 
-nav a {
+.rightheader nav a {
   color: black;
 }
 
-nav span {
+.rightheader nav span {
   flex-flow: row wrap;
   margin-right: 30px;
   color: black;
