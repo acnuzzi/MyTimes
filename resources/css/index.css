@@ -8,6 +8,8 @@ header {
   font-size: 14px;
   font-weight: bold;
   align-items: center;
+  width: 100%;
+  background-color: white;
 }
 
 .mytimes {
