@@ -103,9 +103,9 @@ nav.rightheader span {
   font-weight: bold;
   font-size: 30px;
   color: orange;
-  position: relative;
 }
 
 .header-image {
   z-index: -1;
+  position: absolute;
 }
