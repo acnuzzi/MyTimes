@@ -62,7 +62,7 @@ nav.rightheader span {
   display: flex;
   width: auto;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   padding-top: 120px;
   border: solid;
 }
