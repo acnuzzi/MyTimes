@@ -97,7 +97,7 @@ nav.rightheader span {
   position: relative;
 }
 
-.img_con top {
+.img_con.top {
   background-image: url("../image/picnictable.png");
   width: 630px;
   margin-top: 0px;
