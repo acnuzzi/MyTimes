@@ -87,6 +87,8 @@ nav.rightheader span {
 
 .container1 {
   border: solid;
+  display: none;
+  position: fixed
 }
 
 .container2 {
