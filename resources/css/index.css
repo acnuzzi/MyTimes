@@ -61,11 +61,9 @@ nav.rightheader span {
 .maincontainer {
   display: flex;
   width: auto;
-  flex-direction: row;
   justify-content: space-between;
   padding-top: 120px;
   border: solid;
-  position: fixed;
 }
   
 .largecolumn {
