@@ -107,7 +107,7 @@ nav.rightheader span {
   z-index:99;
 }
 
-.header-image {
+div.header-image img {
   z-index: -1;
   position:absolute;
 }
