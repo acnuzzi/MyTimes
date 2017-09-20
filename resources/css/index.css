@@ -88,7 +88,7 @@ nav.rightheader span {
 .container1 {
   border: solid;
   flex-direction: column;
-  postion: fixed;
+  position: fixed;
 }
 
 .container2 {
