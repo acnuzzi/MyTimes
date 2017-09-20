@@ -95,7 +95,7 @@ nav.rightheader span {
 .container1 {
   border: solid;
   flex-direction: column;
-  position: fixed;
+  position: relative;
 }
 
 div.header-image {
