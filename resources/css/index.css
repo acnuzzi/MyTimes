@@ -108,9 +108,9 @@ div.header-image {
   font-weight: bold;
   font-size: 30px;
   color: orange;
+  position: absolute;
 }
 
 div.header-image img {
-  position: absolute;
   z-index: -1;
 }
