@@ -59,9 +59,9 @@ nav.rightheader span {
 }
   
 .maincontainer {
-  display: flex;
+  display: block;
   width: auto;
-  justify-content: space-between;
+  justify-content: space-around;
   padding-top: 120px;
   border: solid;
 }
