@@ -71,7 +71,9 @@ nav.rightheader span {
   width: 630px;
   border: solid;
   flex-direction: column;
+  justify-content: flex-start;
   position: fixed;
+  height: 300px;
 }
   
 .mediumcolumn {
