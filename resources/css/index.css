@@ -76,12 +76,14 @@ nav.rightheader span {
   
 .mediumcolumn {
   display: flex;
+  position: fixed;
   width: 300px;
   border: solid;
 }
 
 .smallcolumn {
   display: flex;
+  position: fixed;
   width: 240px;
   border: solid;
 }
