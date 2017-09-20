@@ -107,9 +107,7 @@ div.header-image {
   font-weight: bold;
   font-size: 30px;
   color: orange;
-  z-index:99;
 }
 
 div.header-image img {
-  position: relative;
 }
