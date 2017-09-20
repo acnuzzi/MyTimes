@@ -16,7 +16,6 @@ header {
   font-weight: bold;
   align-items: center;
   background-color: white;
-  z-index: 999;
 }
 
 .mytimes {
@@ -98,12 +97,11 @@ nav.rightheader span {
   position: relative;
 }
 
-.header-image p {
+news_con, img_con {
   text-align: center;
   font-family: Georgia;
   font-weight: bold;
   font-size: 30px;
   color: orange;
-  position: absolute;
 }
 
