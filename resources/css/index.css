@@ -70,6 +70,7 @@ nav.rightheader span {
   display: flex;
   width: 630px;
   border: solid;
+  flex-direction: column;
 }
   
 .mediumcolumn {
