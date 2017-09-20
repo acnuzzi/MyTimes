@@ -103,7 +103,7 @@ nav.rightheader span {
   font-weight: bold;
   font-size: 30px;
   color: orange;
-  position: absolute;
+  position: fixed;
 }
 
 .header-image {
