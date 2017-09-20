@@ -99,7 +99,6 @@ nav.rightheader span {
 
 .header-image p {
   text-align: center;
-  z-index: 1;
   font-family: Georgia;
   font-weight: bold;
   font-size: 30px;
@@ -107,6 +106,6 @@ nav.rightheader span {
   position: relative;
 }
 
-header-image {
+.header-image {
   z-index: -1;
 }
