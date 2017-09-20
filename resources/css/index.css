@@ -64,6 +64,7 @@ nav.rightheader span {
   justify-content: space-around;
   padding-top: 120px;
   border: solid;
+  flex: 0 0 0;
 }
   
 .largecolumn {
