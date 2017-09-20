@@ -67,19 +67,19 @@ nav.rightheader span {
 }
   
 .largecolumn {
-  position: right;
+  position: left;
   width: 630px;
   border: solid;
 }
   
 .mediumcolumn {
-  position: fixed;
+  position: center;
   width: 300px;
   border: solid;
 }
 
 .smallcolumn {
-  position: fixed;
+  position: right;
   width: 240px;
   border: solid;
 }
