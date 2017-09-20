@@ -92,14 +92,10 @@ nav.rightheader span {
   flex-direction: column;
 }
 
-.container1 {
+.img_con {
   border: solid;
   flex-direction: column;
   position: relative;
-}
-
-div.header-image {
-  
 }
 
 .header-image p {
@@ -111,6 +107,3 @@ div.header-image {
   position: absolute;
 }
 
-div.header-image img {
-  z-index: -1;
-}
