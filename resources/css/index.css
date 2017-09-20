@@ -69,6 +69,7 @@ nav.rightheader span {
   
 .largecolumn {
   display: flex;
+  position: fixed;
   width: 630px;
   border: solid;
 }
