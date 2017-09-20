@@ -91,7 +91,17 @@ nav.rightheader span {
   flex-direction: column;
 }
 
-.img_con {
+.container_top {
+    display: flex; 
+    height: 300px;
+    margin-top: 15px;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.container {
   border: solid;
   flex-direction: column;
   position: relative;
