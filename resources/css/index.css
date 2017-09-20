@@ -114,6 +114,6 @@ nav.rightheader span {
 }
 
 .header-image p {
-  position: center;
+  text-align: center;
   z-index: 1;
 }
