@@ -94,7 +94,11 @@ nav.rightheader span {
   height: 300px;
 }
 
-
+.img_con.bot {
+  background-image: url("../images/hipster.png");
+  height: 300px;
+  
+ 
 .medium.column {
   width: 300px;
   flex-direction: column;
