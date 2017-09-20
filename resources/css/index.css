@@ -60,7 +60,7 @@ nav.rightheader span {
   
 .maincontainer {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   width: auto;
   padding-top: 120px;
   border: solid;
@@ -70,8 +70,6 @@ nav.rightheader span {
   width: 630px;
   border: solid;
   flex-direction: column;
-  justify-content: flex-start;
-  position: fixed;
 }
   
 .mediumcolumn {
