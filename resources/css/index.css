@@ -68,26 +68,31 @@ nav.rightheader span {
   display: flex;
   width: 1232px;
   margin: 0 auto 78px auto;
-  padding-top: 116px;
+  padding-top: 120px;
 }
   
-.largecolumn {
-  width: 630px;
-  border: solid;
-  flex-direction: column;
-}
-  
-.mediumcolumn {
+.column {
   display: flex;
-  width: 300px;
-  border: solid;
   flex-direction: column;
+  border: solid;
+  margin-right: 32px;
 }
 
-.smallcolumn {
-  display: flex;
-  width: 240px;
-  border: solid;
+.large.column {
+  width: 630px;
   flex-direction: column;
+  border: solid;
+}
+  
+.medium.column {
+  width: 300px;
+  flex-direction: column;
+  border: solid;
+}
+
+.small.column {
+  width: 240px;
+  flex-direction: column;
+  border: solid;
 }
 
