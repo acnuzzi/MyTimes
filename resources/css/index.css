@@ -76,12 +76,14 @@ nav.rightheader span {
   display: flex;
   width: 300px;
   border: solid;
+  flex-direction: column;
 }
 
 .smallcolumn {
   display: flex;
   width: 240px;
   border: solid;
+  flex-direction: column;
 }
 
 .container1 {
