@@ -9,7 +9,6 @@ header {
   font-weight: bold;
   align-items: center;
   background-color: white;
-  position: fixed;
   z-index: 999;
 }
 
