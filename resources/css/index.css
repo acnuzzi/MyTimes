@@ -97,7 +97,7 @@ nav.rightheader span {
   position: relative;
 }
 
-img_con top {
+.img_con top {
   background-image: url("../picnictable.png");
   width: 630px;
   margin-top: 0px;
@@ -105,7 +105,7 @@ img_con top {
   text-align: left;
 }
 
-news_con, img_con {
+.news_con, .img_con {
   text-align: center;
   font-family: Georgia;
   font-weight: bold;
