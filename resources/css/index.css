@@ -88,24 +88,26 @@ nav.rightheader span {
 .container1 {
   border: solid;
   display: flex;
+  position: fixed;
 }
 
 .container2 {
   border: solid;
   display: flex;
+  position: fixed:
 }
 
 .container3 {
   border: solid;
-  display: flex;
+  position: fixed;
 }
 
 .container4 {
   border: solid;
-  display: flex;
+  position: absolute;
 }
 
 .container5 {
   border: solid;
-  display: flex;
+  position: relative;
 }
