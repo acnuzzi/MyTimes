@@ -46,6 +46,7 @@ header nav a {
 
 nav.rightheader{
   border: solid;
+  position: fixed
 }
 
 nav.rightheader a {
