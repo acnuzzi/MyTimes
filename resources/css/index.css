@@ -84,7 +84,7 @@ nav.rightheader span {
   border: solid;
 }
 
-.img_con_top {
+.img_con.top {
   background-image: url("../images/picnic.png");
 }
 
