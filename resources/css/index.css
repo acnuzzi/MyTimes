@@ -122,3 +122,7 @@ nav.rightheader span {
   color: white;
   vertical-align: top;
 }
+
+header-image {
+  z-index: -1;
+}
