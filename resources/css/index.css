@@ -83,7 +83,11 @@ nav.rightheader span {
   flex-direction: column;
   border: solid;
 }
-  
+
+img_con_top {
+  background-image: url("../imgages/picnic.png");
+}
+
 .medium.column {
   width: 300px;
   flex-direction: column;
