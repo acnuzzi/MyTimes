@@ -111,6 +111,6 @@ div.header-image {
 }
 
 div.header-image img {
-  position: fixed;
+  position: absolute;
   z-index: -1;
 }
