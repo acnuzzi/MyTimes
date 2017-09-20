@@ -97,30 +97,13 @@ nav.rightheader span {
   flex-direction: column;
 }
 
-.container2 {
-  border: solid;
-}
-
-.container3 {
-  border: solid;
-}
-
-.container4 {
-  border: solid;
-}
-
-.container5 {
-  border: solid;
-}
-
 .header-image p {
   text-align: center;
   z-index: 1;
   font-family: Georgia;
   font-weight: bold;
   font-size: 30px;
-  color: white;
-  vertical-align: top;
+  color: orange;
 }
 
 header-image {
