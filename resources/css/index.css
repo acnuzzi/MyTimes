@@ -59,6 +59,7 @@ nav.rightheader span {
 }
   
 .maincontainer {
+  display: flex;
   justify-content: space-around;
   width: auto;
   padding-top: 120px;
@@ -66,16 +67,19 @@ nav.rightheader span {
 }
   
 .largecolumn {
+  display: block;
   width: 630px;
   border: solid;
 }
   
 .mediumcolumn {
+  display: block;
   width: 300px;
   border: solid;
 }
 
 .smallcolumn {
+  display: block;
   width: 240px;
   border: solid;
 }
