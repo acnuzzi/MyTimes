@@ -64,6 +64,7 @@ nav.rightheader span {
   width: auto;
   padding-top: 120px;
   border: solid;
+  position: fixed;
 }
   
 .largecolumn {
@@ -71,7 +72,6 @@ nav.rightheader span {
   width: 630px;
   border: solid;
   flex-direction: column;
-  position: fixed;
 }
   
 .mediumcolumn {
