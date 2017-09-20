@@ -116,4 +116,9 @@ nav.rightheader span {
 .header-image p {
   text-align: center;
   z-index: 1;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  vertical-align: top;
 }
