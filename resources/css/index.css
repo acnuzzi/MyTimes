@@ -91,35 +91,3 @@ nav.rightheader span {
   flex-direction: column;
 }
 
-.container_top {
-    display: flex; 
-    height: 300px;
-    margin-top: 15px;
-    font-family: Georgia;
-    font-weight: bold;
-    font-size: 30px;
-    color: white;
-    text-align: center;
-}
-.container {
-  border: solid;
-  flex-direction: column;
-  position: relative;
-}
-
-.img_con.top {
-  background-image: url("../images/picnictable.png");
-  width: 630px;
-  margin-top: 0px;
-  font-size: 40px;
-  text-align: left;
-}
-
-.news_con, .img_con {
-  text-align: center;
-  font-family: Georgia;
-  font-weight: bold;
-  font-size: 30px;
-  color: orange;
-}
-
