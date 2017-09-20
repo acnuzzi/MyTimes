@@ -73,11 +73,13 @@ nav.rightheader span {
 }
   
 .mediumcolumn {
+  position: absolute;
   width: 300px;
   border: solid;
 }
 
 .smallcolumn {
+  position: absolute;
   width: 240px;
   border: solid;
 }
