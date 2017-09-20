@@ -97,6 +97,10 @@ nav.rightheader span {
   flex-direction: column;
 }
 
+div.header-image {
+ position: absolute;  
+}
+
 .header-image p {
   text-align: center;
   font-family: Georgia;
