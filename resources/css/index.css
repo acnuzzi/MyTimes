@@ -89,6 +89,12 @@ nav.rightheader span {
   height: 300px;
 }
 
+.img_con.mid {
+  background-image: url("../images/picnictable.png");
+  height: 300px;
+}
+
+
 .medium.column {
   width: 300px;
   flex-direction: column;
