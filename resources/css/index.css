@@ -113,7 +113,7 @@ nav.rightheader span {
   border: solid;
 }
 
-header-image p {
+.header-image p {
   position: center
   z-index: 1;
 }
