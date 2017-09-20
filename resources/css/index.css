@@ -87,27 +87,20 @@ nav.rightheader span {
 
 .container1 {
   border: solid;
-  display: flex;
-  position: fixed;
 }
 
 .container2 {
   border: solid;
-  display: flex;
-  position: fixed:
 }
 
 .container3 {
   border: solid;
-  position: fixed;
 }
 
 .container4 {
   border: solid;
-  position: absolute;
 }
 
 .container5 {
   border: solid;
-  position: relative;
 }
