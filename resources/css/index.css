@@ -64,11 +64,11 @@ nav.rightheader span {
 }
   
 .maincontainer {
-  display: flex;
-  justify-content: space-around;
-  width: auto;
-  padding-top: 120px;
   border: solid;
+  display: flex;
+  width: 1232px;
+  margin: 0 auto 78px auto;
+  padding-top: 116px;
 }
   
 .largecolumn {
