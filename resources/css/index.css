@@ -104,8 +104,10 @@ nav.rightheader span {
   font-size: 30px;
   color: orange;
   position: relative;
+  z-index:99;
 }
 
 .header-image {
   z-index: -1;
+  position:absolute;
 }
