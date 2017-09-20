@@ -69,21 +69,18 @@ nav.rightheader span {
   
 .largecolumn {
   display: flex;
-  position: fixed;
   width: 630px;
   border: solid;
 }
   
 .mediumcolumn {
   display: flex;
-  position: fixed;
   width: 300px;
   border: solid;
 }
 
 .smallcolumn {
   display: flex;
-  position: fixed;
   width: 240px;
   border: solid;
 }
