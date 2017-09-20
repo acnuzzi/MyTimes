@@ -86,25 +86,25 @@ nav.rightheader span {
 
 .container1 {
   border: solid;
-  display: block;
+  display: inline-block;
 }
 
 .container2 {
   border: solid;
-  display: block;
+  display: inline-block;
 }
 
 .container3 {
   border: solid;
-  display: block;
+  display: inline-block;
 }
 
 .container4 {
   border: solid;
-  display: block;
+  display: inline-block;
 }
 
 .container5 {
   border: solid;
-  display: block;
+  display: inline-block;
 }
