@@ -86,6 +86,7 @@ nav.rightheader span {
 
 .img_con.top {
   background-image: url("../images/picnictable.png");
+  height: 300px;
 }
 
 .medium.column {
