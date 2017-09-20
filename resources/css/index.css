@@ -112,3 +112,8 @@ nav.rightheader span {
 .container5 {
   border: solid;
 }
+
+header-image p {
+  position: center
+  z-index: 1;
+}
