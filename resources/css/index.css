@@ -64,22 +64,23 @@ nav.rightheader span {
   width: auto;
   padding-top: 120px;
   border: solid;
+  position: relative;
 }
   
 .largecolumn {
-  position: absolute;
+  display: flex;
   width: 630px;
   border: solid;
 }
   
 .mediumcolumn {
-  position: absolute;
+  display: flex;
   width: 300px;
   border: solid;
 }
 
 .smallcolumn {
-  position: absolute;
+  display: flex;
   width: 240px;
   border: solid;
 }
