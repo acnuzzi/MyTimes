@@ -71,6 +71,7 @@ nav.rightheader span {
   width: 630px;
   border: solid;
   flex-direction: column;
+  position: fixed;
 }
   
 .mediumcolumn {
@@ -88,7 +89,6 @@ nav.rightheader span {
 .container1 {
   border: solid;
   flex-direction: column;
-  position: fixed;
 }
 
 .container2 {
