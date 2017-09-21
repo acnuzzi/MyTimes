@@ -105,6 +105,11 @@ nav.rightheader span {
   border: solid;
 }
 
+.img_con.2mid {
+  background-image: url("../images/cat-ceo.png");
+  height: 300px;
+}
+
 .small.column {
   width: 240px;
   flex-direction: column;
