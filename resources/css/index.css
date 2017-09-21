@@ -158,8 +158,13 @@ nav.rightheader span {
   padding: 5px;
 }
 
+.con_footer {
+      display: flex;
+      background-color: MediumAquamarine;
+      text-align: center;
+}
+
 .con_footer.footer.nav {
-  background-color: MediumAquamarine;
   margin: auto;
   font-family: Verdana;
   font-size: 12px;
