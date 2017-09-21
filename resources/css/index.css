@@ -170,15 +170,12 @@ nav.footer a {
   margin: auto;
   font-family: Verdana;
   font-size: 12px;
-  justify-content: center;
   color: black;
 }
 
 .footer {
   flex-direction: row;
   justify-content: center;
-  text-align: center;
-  flex-direction: column;
 }
 
 nav.footer span {
