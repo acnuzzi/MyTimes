@@ -157,3 +157,14 @@ nav.rightheader span {
   border-width: thin;
   padding: 5px;
 }
+
+.con_footer {
+  background-color: MediumAquamarine;
+  margin: auto;
+  font-family: Verdana;
+  font-size: 12px;
+}
+
+.footer {
+  flex-direction: row;
+}
