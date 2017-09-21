@@ -18,6 +18,8 @@ header {
   background-color: white;
   z-index: 1;
   height 80px;
+  padding-top: 0px;
+  margin-top:0px;
 }
 
 .mytimes {
