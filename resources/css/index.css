@@ -174,4 +174,5 @@ nav.footer a {
 
 .footer {
   flex-direction: row;
+  justify-content: center;
 }
