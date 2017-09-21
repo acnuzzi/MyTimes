@@ -80,7 +80,6 @@ nav.rightheader span {
 
 .large.column {
   width: 630px;
-  flex-direction: column;
   margin-right: 32px;
   border: solid;
 }
@@ -106,7 +105,6 @@ nav.rightheader span {
  
 .medium.column {
   width: 480px;
-  flex-direction: column;
   border: solid;
 }
 
@@ -145,7 +143,6 @@ nav.rightheader span {
 
 .small.column {
   width: 240px;
-  flex-direction: column;
   border: solid;
 }
 
