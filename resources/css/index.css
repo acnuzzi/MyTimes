@@ -28,7 +28,6 @@ div.leftheader ul {
   list-style-type: none;
   display: inline-flex;
   align-items: center;
-  border: solid;
 }
 
 div.leftheader li {
@@ -65,7 +64,6 @@ nav.rightheader span {
 }
   
 .maincontainer {
-  border: solid;
   display: flex;
   width: 1232px;
   margin: 0 auto 78px auto;
