@@ -160,4 +160,6 @@ nav.rightheader span {
   font-family: Verdana;
   font-size: 12px;
   color: DimGray;
+  border-bottom: solid;
+  padding: 5px;
 }
