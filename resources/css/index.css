@@ -16,6 +16,8 @@ header {
   font-weight: bold;
   align-items: center;
   background-color: white;
+  z-index: 1;
+  height 80px;
 }
 
 .mytimes {
@@ -100,11 +102,12 @@ nav.rightheader span {
 
 .img_con.bot {
   background-image: url("../images/hipster.png");
+  width: 362px;
   height: 300px;
 }  
  
 .medium.column {
-  width: 480px;
+  width: 362px;
   border: solid;
 }
 
