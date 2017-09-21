@@ -18,8 +18,8 @@ header {
   background-color: white;
   z-index: 1;
   height 80px;
-  padding-top: -5px;
-  margin-top:0px;
+  margin-top: -5px;
+  height: 80px;
 }
 
 .mytimes {
