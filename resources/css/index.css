@@ -105,7 +105,7 @@ nav.rightheader span {
 }  
  
 .medium.column {
-  width: 330px;
+  width: 360px;
   flex-direction: column;
   border: solid;
 }
