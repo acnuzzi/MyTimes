@@ -118,7 +118,7 @@ nav.rightheader span {
 .container_news {
   display: flex;
   flex-direction: column;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .img_con {
