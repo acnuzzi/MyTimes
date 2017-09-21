@@ -114,6 +114,7 @@ nav.rightheader span {
 
 .container_news {
   display: flex;
+  flex-direction: column;
 }
 
 .img_con {
