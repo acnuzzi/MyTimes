@@ -168,7 +168,7 @@ nav.rightheader span {
   margin: auto;
   font-family: Verdana;
   font-size: 12px;
-  justify-content: center;
+  text-align: center;
 }
 
 .footer {
