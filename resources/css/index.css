@@ -162,6 +162,7 @@ nav.rightheader span {
       display: flex;
       background-color: MediumAquamarine;
       text-align: center;
+      justify-content: center;
 }
 
 nav.footer a {
@@ -175,4 +176,9 @@ nav.footer a {
 .footer {
   flex-direction: row;
   justify-content: center;
+  text-align: center;
+}
+
+nav.footer span {
+  text-align: center;
 }
