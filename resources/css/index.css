@@ -163,6 +163,7 @@ nav.rightheader span {
       background-color: MediumAquamarine;
       text-align: center;
       justify-content: center;
+      flex-direction: column;
 }
 
 nav.footer a {
