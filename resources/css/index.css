@@ -81,6 +81,7 @@ nav.rightheader span {
 .large.column {
   width: 630px;
   flex-direction: column;
+  margin-right: 32px;
   border: solid;
 }
 
