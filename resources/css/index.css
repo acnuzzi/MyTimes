@@ -52,7 +52,6 @@ header nav a {
   */
 
 nav.rightheader{
-  border: solid;
 }
 
 nav.rightheader a {
@@ -76,14 +75,12 @@ nav.rightheader span {
 .column {
   display: flex;
   flex-direction: column;
-  border: solid;
   margin-right: 32px;
 }
 
 .large.column {
   width: 630px;
-  margin-right: 32px;
-  border: solid;
+  margin-right: 32px;;
 }
 
 .img_con.top {
@@ -108,7 +105,6 @@ nav.rightheader span {
  
 .medium.column {
   width: 300px;
-  border: solid;
 }
 
 .img_con.secmid {
