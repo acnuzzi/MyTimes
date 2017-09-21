@@ -150,12 +150,12 @@ nav.rightheader span {
   border: solid;
 }
 
-.small.container p {
-  font-size: 32px;
+.small.column p {
+  font-size: 16px;
   font-weight: bold;
 }
 
-.small.container span {
+.small.column span {
   background-color: WhiteSmoke;
   font-family: Verdana;
   font-size: 12px;
