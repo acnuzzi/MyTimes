@@ -102,7 +102,7 @@ nav.rightheader span {
 
 .img_con.bot {
   background-image: url("../images/hipster.png");
-  width: 362px;
+  width: 300px;
   height: 300px;
 }  
  
@@ -114,6 +114,7 @@ nav.rightheader span {
 .img_con.secmid {
   background-image: url("../images/cat_ceo.png");
   height: 300px;
+  width: 362px;
 }
 
 .container_news {
