@@ -107,14 +107,14 @@ nav.rightheader span {
 }  
  
 .medium.column {
-  width: 310px;
+  width: 300px;
   border: solid;
 }
 
 .img_con.secmid {
   background-image: url("../images/cat_ceo.png");
   height: 300px;
-  width: 310px;
+  width: 300px;
 }
 
 .container_news {
