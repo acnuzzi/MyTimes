@@ -168,7 +168,7 @@ nav.footer a {
   margin: auto;
   font-family: Verdana;
   font-size: 12px;
-  text-align: center;
+  justify-content: center;
   color: black;
 }
 
