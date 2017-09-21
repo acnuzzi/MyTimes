@@ -112,7 +112,12 @@ nav.rightheader span {
   height: 300px;
 }
 
+.container_news {
+  display: flex;
+}
+
 .img_con {
+  Display: flex;
   font-family: Georgia;
   font-weight: bold;
   font-size: 30px;
