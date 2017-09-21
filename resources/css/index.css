@@ -158,7 +158,7 @@ nav.rightheader span {
   padding: 5px;
 }
 
-.con_footer {
+.con_footer.footer.nav span {
   background-color: MediumAquamarine;
   margin: auto;
   font-family: Verdana;
