@@ -164,7 +164,7 @@ nav.rightheader span {
       text-align: center;
 }
 
-.con_footer.footer.nav {
+.con_footer.footer.nav a {
   margin: auto;
   font-family: Verdana;
   font-size: 12px;
