@@ -125,6 +125,18 @@ nav.rightheader span {
   text-align: center;
 }
 
+.news_box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 17px;
+}
+
+.news_piece {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
 .small.column {
   width: 240px;
   flex-direction: column;
