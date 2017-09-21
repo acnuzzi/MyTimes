@@ -178,7 +178,11 @@ nav.footer a {
   justify-content: center;
 }
 
+div.nav span {
+  color: white;
+}
+
 nav.footer span {
   text-align: center;
-  padding: 5px;
+  padding: 10px;
 }
